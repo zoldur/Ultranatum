@@ -4,7 +4,7 @@ Shell script to install a [Ultranatum Masternode](http://ultranatum.org/) on a L
 
 ## Installation
 ```
-wget -q https://raw.githubusercontent.com/zoldur/Ultranatum/master/ultranatum_install.sh
+wget -N https://raw.githubusercontent.com/zoldur/Ultranatum/master/ultranatum_install.sh
 bash ultranatum_install.sh
 ```
 ***
